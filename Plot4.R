@@ -1,4 +1,4 @@
-setwd("C:/Users/Daiane/Desktop/COURSERA/Exploratory data analysis/semana4")
+setwd("C:/Users/Daiane/Desktop/COURSERA/Exploratory data analysis/semana4/ASSIGMENT/ASSIGMENT")
 
 ## This first line will likely take a few seconds. Be patient!
 NEI <- readRDS("summarySCC_PM25.rds")
